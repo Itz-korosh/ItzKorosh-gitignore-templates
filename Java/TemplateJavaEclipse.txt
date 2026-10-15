@@ -1,0 +1,52 @@
+# ItzKorosh's JavaEclipse Template - Free to remove this line no licensing issue
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+*.launch
+.apt_generated/
+.factorypath
+.recommenders/
+.sonarlint/
+
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Build output (Maven / Gradle / Ant)
+target/
+build/
+out/
+*.log
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+
+# IDE (non-Eclipse)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
