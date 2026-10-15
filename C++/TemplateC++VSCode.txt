@@ -1,0 +1,13 @@
+# ItzKorosh's C++VsCode Template - Free to remove this line no licensing issue
+# Vscode
+.vscode/
+
+# Binary folders
+bin/
+build/
+
+# Build Artifacts / Object files
+*.o
+*.elf
+build/*.bin
+bin/*.bin
